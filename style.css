@@ -4,7 +4,7 @@
 }
 body {
     background-color: #000;
-    background: url(https://cdn.discordapp.com/attachments/1164737587081121923/1225514062532837488/a_3f29c6acfc674143fd4241826af3de32.gif?ex=662167e9&is=660ef2e9&hm=d88b50ead5267083c543d19c172cad5d6f3374113f0f00587e5f2e631e35cf39&) no-repeat center center/cover;
+    background: url(https://i.pinimg.com/564x/12/0e/63/120e631a6521f09209dc74f7695bd1d6.jpg) no-repeat center center/cover;
     transition: all .7s ease-in-out;
     -o-transition: all .7s ease-in-out;
     -moz-transition: all .7s ease-in-out;
@@ -13,7 +13,7 @@ body {
 
 }
 .card {
-    background: url("https://i.pinimg.com/originals/2e/a4/db/2ea4db64f2e1201d931dd87b6e533af7.gif");
+    background: url("https://i.pinimg.com/originals/65/22/70/652270802fe9fe840392dc0610d7e725.gif");
     background-color: #050505;
     width: 400px;
     height: 550px;
